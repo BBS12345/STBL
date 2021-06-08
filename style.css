@@ -1,0 +1,43 @@
+#welcome{
+    background: linear-gradient(#fc036b 0%, #00087a 50%, #ba03fc 100%);
+    width: 100%;
+    overflow: hidden;
+    height: 800px;
+    text-align: center;
+}
+#profile{
+    width: 175px;
+    border-radius: 50%;
+    height: 250px;
+    margin-top: 200px;
+}
+.line{
+    background-color: black;
+    width: 200px;
+    height: 5px;
+    margin: 8px auto;
+}
+#bio{
+    text-align: center;
+    padding: 50px;
+}
+p{
+    max-width: 500px;
+    margin: 25px auto;
+    line-height: 1.4;
+}
+h1{
+    font-size: 40px;
+    line-height: 1.2;
+    font-weight: 300;
+    font-family: georgia;
+}
+#name{
+    font-size: 32px;
+    font-family: georgia;
+}
+h2{
+    font-size: 32px;
+    font-weight: lighter;
+    font-family: georgia;
+}
